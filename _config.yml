@@ -1,0 +1,4 @@
+url: "https://antonkurdoblo.github.io"
+
+plugins:
+  - jekyll-sitemap
