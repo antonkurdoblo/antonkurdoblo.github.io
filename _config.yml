@@ -1,4 +1,9 @@
+title: "Anton Kurdoblo's personal page"
+description: "Personal page of Anton Kurdoblo"
+
 url: "https://antonkurdoblo.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
